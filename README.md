@@ -11,6 +11,6 @@ $ pip3 --version                        # overi verzi
 
 $ pip install -r requirements.txt       # nainstaule knihovny
 '''
-
+k
 
 
