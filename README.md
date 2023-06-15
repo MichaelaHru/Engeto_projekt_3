@@ -5,7 +5,7 @@ Projekt extrahuje vysledky voleb 2021 do souboru csv. Odkaz k prohlednuti najdet
 # Instalace knihoven
 Knihovny, ktere jsou pouzity v kodu, jsou ulozeny v requirements.txt. Doporuceni pro instalaci - vytvoreni noveho virtualniho prostredi.
 Instalaci spustime nasledovne:
-'''
+'''shell
 $ pip3 --version                        # overi verzi
 $ pip install -r requirements.txt       # nainstaule knihovny
 '''
